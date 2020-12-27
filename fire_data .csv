@@ -1,0 +1,1567 @@
+Area,Oxigen,Temperature,Humidity,Fire Occurrence
+Jharkand,55,45,20,1
+Bangalore,52,30,10,1
+Ecuador,25,20,70,0
+Kanha National Park	,50,45,70,1
+Bangalore,21,48,10,1
+melghat,30,15,30,0
+Kanha National Park	,28,35,35,0
+tadoba,20,20,70,0
+Ecuador,32,32,19,1
+Kanha National Park	,28,50,45,1
+Gir National Park,12,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,60,12,12,0
+Bangalore,26,23,23,0
+Ecuador,10,34,15,1
+canada,50,4,68,0
+melghat,30,56,79,1
+melghat,30,45,90,0
+tadoba,21,43,15,1
+tadoba,25,0,32,0
+dyanganga,30,37,21,1
+Jim Corbett National Park,5,48,12,1
+tadoba,10,15,65,0
+asdas,50,45,33,1
+sundarban,28,49,8,1
+sundarban,21,45,18,1
+sahara,60,12,44,0
+sahara,40,20,59,0
+tadoba,30,32,70,0
+Jharkand,78,45,20,1
+Bangalore,30,30,10,1
+Ecuador,12,20,70,0
+Kanha National Park	,80,45,70,1
+Bangalore,30,48,10,1
+melghat,40,15,30,0
+Kanha National Park	,80,35,35,0
+tadoba,40,20,70,0
+Ecuador,50,32,19,1
+Kanha National Park	,26,50,45,1
+Gir National Park,67,55,80,1
+Jakanari reserve forest,21,39,100,0
+Jharkand,40,12,12,0
+Bangalore,56,23,23,0
+Ecuador,5,34,15,1
+canada,67,4,68,0
+melghat,45,56,79,1
+melghat,56,45,90,0
+tadoba,60,43,15,1
+tadoba,25,0,32,0
+dyanganga,60,37,21,1
+Jim Corbett National Park,25,48,12,1
+tadoba,40,15,65,0
+asdas,30,45,33,1
+sundarban,10,49,8,1
+sundarban,11,45,18,1
+sahara,60,12,44,0
+sahara,30,20,59,0
+tadoba,30,32,70,0
+Jharkand,11,45,20,1
+Bangalore,5,30,10,1
+Ecuador,30,20,70,0
+Kanha National Park	,32,45,70,1
+Bangalore,40,48,10,1
+melghat,10,15,30,0
+Kanha National Park	,40,35,35,0
+tadoba,80,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,45,50,45,1
+Gir National Park,45,55,80,1
+Jakanari reserve forest,11,39,100,0
+Jharkand,12,12,12,0
+Bangalore,10,23,23,0
+Ecuador,50,34,15,1
+canada,40,4,68,0
+melghat,12,56,79,1
+melghat,89,45,90,0
+tadoba,50,43,15,1
+tadoba,30,0,32,0
+dyanganga,60,37,21,1
+Jim Corbett National Park,60,48,12,1
+tadoba,28,15,65,0
+asdas,28,45,33,1
+sundarban,26,49,8,1
+sundarban,12,45,18,1
+sahara,32,12,44,0
+sahara,25,20,59,0
+tadoba,28,32,70,0
+Jharkand,25,45,20,1
+Bangalore,32,30,10,1
+Ecuador,30,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,50,48,10,1
+melghat,30,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,50,20,70,0
+Ecuador,89,32,19,1
+Kanha National Park	,60,50,45,1
+Gir National Park,25,55,80,1
+Jakanari reserve forest,5,39,100,0
+Jharkand,20,12,12,0
+Bangalore,89,23,23,0
+Ecuador,40,34,15,1
+canada,60,4,68,0
+melghat,78,56,79,1
+melghat,1,45,90,0
+tadoba,30,43,15,1
+tadoba,60,0,32,0
+dyanganga,30,37,21,1
+Jim Corbett National Park,40,48,12,1
+tadoba,50,15,65,0
+asdas,25,45,33,1
+sundarban,40,49,8,1
+sundarban,40,45,18,1
+sahara,45,12,44,0
+sahara,60,20,59,0
+tadoba,30,32,70,0
+Jharkand,40,45,20,1
+Bangalore,56,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,10,45,70,1
+Bangalore,45,48,10,1
+melghat,10,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,78,20,70,0
+Ecuador,45,32,19,1
+Kanha National Park	,50,50,45,1
+Gir National Park,32,55,80,1
+Jakanari reserve forest,10,39,100,0
+Jharkand,20,12,12,0
+Bangalore,5,23,23,0
+Ecuador,10,34,15,1
+canada,30,4,68,0
+melghat,30,56,79,1
+melghat,5,45,90,0
+tadoba,60,43,15,1
+tadoba,45,0,32,0
+dyanganga,1,37,21,1
+Jim Corbett National Park,30,48,12,1
+tadoba,5,15,65,0
+asdas,30,45,33,1
+sundarban,11,49,8,1
+sundarban,67,45,18,1
+sahara,10,12,44,0
+sahara,50,20,59,0
+tadoba,12,32,70,0
+Jharkand,10,45,20,1
+Bangalore,50,30,10,1
+Ecuador,28,20,70,0
+Kanha National Park	,5,45,70,1
+Bangalore,80,48,10,1
+melghat,67,15,30,0
+Kanha National Park	,56,35,35,0
+tadoba,50,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,32,50,45,1
+Gir National Park,5,55,80,1
+Jakanari reserve forest,40,39,100,0
+Jharkand,10,12,12,0
+Bangalore,30,23,23,0
+Ecuador,78,34,15,1
+canada,21,4,68,0
+melghat,5,56,79,1
+melghat,60,45,90,0
+tadoba,30,43,15,1
+tadoba,67,0,32,0
+dyanganga,40,37,21,1
+Jim Corbett National Park,21,48,12,1
+tadoba,26,15,65,0
+asdas,80,45,33,1
+sundarban,10,49,8,1
+sundarban,50,45,18,1
+sahara,89,12,44,0
+sahara,20,20,59,0
+tadoba,40,32,70,0
+Jharkand,89,45,20,1
+Bangalore,26,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,50,45,70,1
+Bangalore,30,48,10,1
+melghat,25,15,30,0
+Kanha National Park	,30,35,35,0
+tadoba,12,20,70,0
+Ecuador,45,32,19,1
+Kanha National Park	,21,50,45,1
+Gir National Park,60,55,80,1
+Jakanari reserve forest,60,39,100,0
+Jharkand,1,12,12,0
+Bangalore,78,23,23,0
+Ecuador,32,34,15,1
+canada,60,4,68,0
+melghat,60,56,79,1
+melghat,50,45,90,0
+tadoba,25,43,15,1
+tadoba,56,0,32,0
+dyanganga,5,37,21,1
+Jim Corbett National Park,10,48,12,1
+tadoba,30,15,65,0
+asdas,32,45,33,1
+sundarban,30,49,8,1
+sundarban,60,45,18,1
+sahara,60,12,44,0
+sahara,25,20,59,0
+tadoba,25,32,70,0
+Jharkand,20,45,20,1
+Bangalore,32,30,10,1
+Ecuador,26,20,70,0
+Kanha National Park	,80,45,70,1
+Bangalore,56,48,10,1
+melghat,10,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,30,20,70,0
+Ecuador,1,32,19,1
+Kanha National Park	,26,50,45,1
+Gir National Park,60,55,80,1
+Jakanari reserve forest,21,39,100,0
+Jharkand,67,12,12,0
+Bangalore,20,23,23,0
+Ecuador,80,34,15,1
+canada,35,4,68,0
+melghat,10,56,79,1
+melghat,12,45,90,0
+tadoba,50,43,15,1
+tadoba,12,0,32,0
+dyanganga,45,37,21,1
+Jim Corbett National Park,26,48,12,1
+tadoba,50,15,65,0
+asdas,1,45,33,1
+sundarban,20,49,8,1
+sundarban,78,45,18,1
+sahara,89,12,44,0
+sahara,5,20,59,0
+tadoba,30,32,70,0
+Jharkand,32,45,20,1
+Bangalore,50,30,10,1
+Ecuador,80,20,70,0
+Kanha National Park	,10,45,70,1
+Bangalore,10,48,10,1
+melghat,40,15,30,0
+Kanha National Park	,32,35,35,0
+tadoba,40,20,70,0
+Ecuador,5,32,19,1
+Kanha National Park	,89,50,45,1
+Gir National Park,30,55,80,1
+Jakanari reserve forest,50,39,100,0
+Jharkand,40,12,12,0
+Bangalore,60,23,23,0
+Ecuador,89,34,15,1
+canada,89,4,68,0
+melghat,50,56,79,1
+melghat,40,45,90,0
+tadoba,21,43,15,1
+tadoba,60,0,32,0
+dyanganga,10,37,21,1
+Jim Corbett National Park,50,48,12,1
+tadoba,12,15,65,0
+asdas,25,45,33,1
+sundarban,20,49,8,1
+sundarban,60,45,18,1
+sahara,60,12,44,0
+sahara,1,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,60,30,10,1
+Ecuador,21,20,70,0
+Kanha National Park	,28,45,70,1
+Bangalore,5,48,10,1
+melghat,40,15,30,0
+Kanha National Park	,60,35,35,0
+tadoba,26,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,11,50,45,1
+Gir National Park,67,55,80,1
+Jakanari reserve forest,5,39,100,0
+Jharkand,50,12,12,0
+Bangalore,10,23,23,0
+Ecuador,25,34,15,1
+canada,60,4,68,0
+melghat,40,56,79,1
+melghat,30,45,90,0
+tadoba,11,43,15,1
+tadoba,30,0,32,0
+dyanganga,12,37,21,1
+Jim Corbett National Park,1,48,12,1
+tadoba,30,15,65,0
+asdas,67,45,33,1
+sundarban,11,49,8,1
+sundarban,45,45,18,1
+sahara,10,12,44,0
+sahara,30,20,59,0
+tadoba,20,32,70,0
+Jharkand,50,45,20,1
+Bangalore,60,30,10,1
+Ecuador,5,20,70,0
+Kanha National Park	,56,45,70,1
+Bangalore,78,48,10,1
+melghat,26,15,30,0
+Kanha National Park	,10,35,35,0
+tadoba,60,20,70,0
+Ecuador,11,32,19,1
+Kanha National Park	,20,50,45,1
+Gir National Park,32,55,80,1
+Jakanari reserve forest,12,39,100,0
+Jharkand,40,12,12,0
+Bangalore,89,23,23,0
+Ecuador,1,34,15,1
+canada,10,4,68,0
+melghat,5,56,79,1
+melghat,32,45,90,0
+tadoba,40,43,15,1
+tadoba,26,0,32,0
+dyanganga,89,37,21,1
+Jim Corbett National Park,60,48,12,1
+tadoba,50,15,65,0
+asdas,89,45,33,1
+sundarban,1,49,8,1
+sundarban,30,45,18,1
+sahara,50,12,44,0
+sahara,12,20,59,0
+tadoba,30,32,70,0
+Jharkand,20,45,20,1
+Bangalore,60,30,10,1
+Ecuador,1,20,70,0
+Kanha National Park	,45,45,70,1
+Bangalore,67,48,10,1
+melghat,60,15,30,0
+Kanha National Park	,11,35,35,0
+tadoba,50,20,70,0
+Ecuador,10,32,19,1
+Kanha National Park	,45,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,80,39,100,0
+Jharkand,10,12,12,0
+Bangalore,21,23,23,0
+Ecuador,78,34,15,1
+canada,40,4,68,0
+melghat,1,56,79,1
+melghat,28,45,90,0
+tadoba,67,43,15,1
+tadoba,45,0,32,0
+dyanganga,67,37,21,1
+Jim Corbett National Park,67,48,12,1
+tadoba,20,15,65,0
+asdas,28,45,33,1
+sundarban,80,49,8,1
+sundarban,30,45,18,1
+sahara,10,12,44,0
+sahara,45,20,59,0
+tadoba,1,32,70,0
+Jharkand,30,45,20,1
+Bangalore,78,30,10,1
+Ecuador,30,20,70,0
+Kanha National Park	,30,45,70,1
+Bangalore,80,48,10,1
+melghat,40,15,30,0
+Kanha National Park	,28,35,35,0
+tadoba,5,20,70,0
+Ecuador,11,32,19,1
+Kanha National Park	,11,50,45,1
+Gir National Park,78,55,80,1
+Jakanari reserve forest,67,39,100,0
+Jharkand,12,12,12,0
+Bangalore,26,23,23,0
+Ecuador,78,34,15,1
+canada,28,4,68,0
+melghat,26,56,79,1
+melghat,30,45,90,0
+tadoba,12,43,15,1
+tadoba,56,0,32,0
+dyanganga,60,37,21,1
+Jim Corbett National Park,60,48,12,1
+tadoba,1,15,65,0
+asdas,78,45,33,1
+sundarban,89,49,8,1
+sundarban,5,45,18,1
+sahara,40,12,44,0
+sahara,5,20,59,0
+tadoba,60,32,70,0
+Jharkand,21,45,20,1
+Bangalore,1,30,10,1
+Ecuador,60,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,56,48,10,1
+melghat,78,15,30,0
+Kanha National Park	,89,35,35,0
+tadoba,10,20,70,0
+Ecuador,45,32,19,1
+Kanha National Park	,45,50,45,1
+Gir National Park,60,55,80,1
+Jakanari reserve forest,32,39,100,0
+Jharkand,26,12,12,0
+Bangalore,1,23,23,0
+Ecuador,50,34,15,1
+canada,50,4,68,0
+melghat,26,56,79,1
+melghat,40,45,90,0
+tadoba,21,43,15,1
+tadoba,11,0,32,0
+dyanganga,10,37,21,1
+Jim Corbett National Park,60,48,12,1
+tadoba,26,15,65,0
+asdas,67,45,33,1
+sundarban,1,49,8,1
+sundarban,40,45,18,1
+sahara,56,12,44,0
+sahara,21,20,59,0
+tadoba,30,32,70,0
+Jharkand,50,45,20,1
+Bangalore,40,30,10,1
+Ecuador,11,20,70,0
+Kanha National Park	,10,45,70,1
+Bangalore,25,48,10,1
+melghat,20,15,30,0
+Kanha National Park	,89,35,35,0
+tadoba,25,20,70,0
+Ecuador,56,32,19,1
+Kanha National Park	,5,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,50,39,100,0
+Jharkand,30,12,12,0
+Bangalore,39,23,23,0
+Ecuador,10,34,15,1
+canada,50,4,68,0
+melghat,80,56,79,1
+melghat,28,45,90,0
+tadoba,56,43,15,1
+tadoba,32,0,32,0
+dyanganga,56,37,21,1
+Jim Corbett National Park,10,48,12,1
+tadoba,30,15,65,0
+asdas,30,45,33,1
+sundarban,5,49,8,1
+sundarban,25,45,18,1
+sahara,28,12,44,0
+sahara,25,20,59,0
+tadoba,5,32,70,0
+Jharkand,5,45,20,1
+Bangalore,20,30,10,1
+Ecuador,20,20,70,0
+Kanha National Park	,5,45,70,1
+Bangalore,60,48,10,1
+melghat,1,15,30,0
+Kanha National Park	,30,35,35,0
+tadoba,5,20,70,0
+Ecuador,12,32,19,1
+Kanha National Park	,60,50,45,1
+Gir National Park,20,55,80,1
+Jakanari reserve forest,20,39,100,0
+Jharkand,32,12,12,0
+Bangalore,21,23,23,0
+Ecuador,20,34,15,1
+canada,78,4,68,0
+melghat,28,56,79,1
+melghat,60,45,90,0
+tadoba,40,43,15,1
+tadoba,11,0,32,0
+dyanganga,78,37,21,1
+Jim Corbett National Park,40,48,12,1
+tadoba,21,15,65,0
+asdas,28,45,33,1
+sundarban,21,49,8,1
+sundarban,30,45,18,1
+sahara,12,12,44,0
+sahara,60,20,59,0
+tadoba,80,32,70,0
+Jharkand,89,45,20,1
+Bangalore,30,30,10,1
+Ecuador,30,20,70,0
+Kanha National Park	,45,45,70,1
+Bangalore,26,48,10,1
+melghat,56,15,30,0
+Kanha National Park	,56,35,35,0
+tadoba,56,20,70,0
+Ecuador,50,32,19,1
+Kanha National Park	,40,50,45,1
+Gir National Park,89,55,80,1
+Jakanari reserve forest,67,39,100,0
+Jharkand,45,12,12,0
+Bangalore,28,23,23,0
+Ecuador,67,34,15,1
+canada,80,4,68,0
+melghat,80,56,79,1
+melghat,60,45,90,0
+tadoba,25,43,15,1
+tadoba,21,0,32,0
+dyanganga,60,37,21,1
+Jim Corbett National Park,5,48,12,1
+tadoba,5,15,65,0
+asdas,30,45,33,1
+sundarban,11,49,8,1
+sundarban,60,45,18,1
+sahara,5,12,44,0
+sahara,11,20,59,0
+tadoba,78,32,70,0
+Jharkand,28,45,20,1
+Bangalore,67,30,10,1
+Ecuador,56,20,70,0
+Kanha National Park	,40,45,70,1
+Bangalore,11,48,10,1
+melghat,30,15,30,0
+Kanha National Park	,30,35,35,0
+tadoba,5,20,70,0
+Ecuador,12,32,19,1
+Kanha National Park	,78,50,45,1
+Gir National Park,60,55,80,1
+Jakanari reserve forest,78,39,100,0
+Jharkand,89,12,12,0
+Bangalore,40,23,23,0
+Ecuador,32,34,15,1
+canada,26,4,68,0
+melghat,67,56,79,1
+melghat,32,45,90,0
+tadoba,40,43,15,1
+tadoba,56,0,32,0
+dyanganga,50,37,21,1
+Jim Corbett National Park,40,48,12,1
+tadoba,Oxygen,15,65,0
+asdas,80,45,33,1
+sundarban,80,49,8,1
+sundarban,80,45,18,1
+sahara,60,12,44,0
+sahara,30,20,59,0
+tadoba,10,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,39,45,20,1
+Bangalore,40,30,10,1
+Ecuador,40,20,70,0
+Kanha National Park	,40,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,55,45,20,1
+Bangalore,52,30,10,1
+Ecuador,25,20,70,0
+Kanha National Park	,50,45,70,1
+Bangalore,21,48,10,1
+melghat,30,15,30,0
+Kanha National Park	,28,35,35,0
+tadoba,20,20,70,0
+Ecuador,32,32,19,1
+Kanha National Park	,28,50,45,1
+Gir National Park,12,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,60,12,12,0
+Bangalore,26,23,23,0
+Ecuador,10,34,15,1
+canada,50,4,68,0
+melghat,30,56,79,1
+melghat,30,45,90,0
+tadoba,21,43,15,1
+tadoba,25,0,32,0
+dyanganga,30,37,21,1
+Jim Corbett National Park,5,48,12,1
+tadoba,10,15,65,0
+asdas,50,45,33,1
+sundarban,28,49,8,1
+sundarban,21,45,18,1
+sahara,60,12,44,0
+sahara,40,20,59,0
+tadoba,30,32,70,0
+Jharkand,78,45,20,1
+Bangalore,30,30,10,1
+Ecuador,12,20,70,0
+Kanha National Park	,80,45,70,1
+Bangalore,30,48,10,1
+melghat,40,15,30,0
+Kanha National Park	,80,35,35,0
+tadoba,40,20,70,0
+Ecuador,50,32,19,1
+Kanha National Park	,26,50,45,1
+Gir National Park,67,55,80,1
+Jakanari reserve forest,21,39,100,0
+Jharkand,40,12,12,0
+Bangalore,56,23,23,0
+Ecuador,5,34,15,1
+canada,67,4,68,0
+melghat,45,56,79,1
+melghat,56,45,90,0
+tadoba,60,43,15,1
+tadoba,25,0,32,0
+dyanganga,60,37,21,1
+Jim Corbett National Park,25,48,12,1
+tadoba,40,15,65,0
+asdas,30,45,33,1
+sundarban,10,49,8,1
+sundarban,11,45,18,1
+sahara,60,12,44,0
+sahara,30,20,59,0
+tadoba,30,32,70,0
+Jharkand,11,45,20,1
+Bangalore,5,30,10,1
+Ecuador,30,20,70,0
+Kanha National Park	,32,45,70,1
+Bangalore,40,48,10,1
+melghat,10,15,30,0
+Kanha National Park	,40,35,35,0
+tadoba,80,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,45,50,45,1
+Gir National Park,45,55,80,1
+Jakanari reserve forest,11,39,100,0
+Jharkand,12,12,12,0
+Bangalore,10,23,23,0
+Ecuador,50,34,15,1
+canada,40,4,68,0
+melghat,12,56,79,1
+melghat,89,45,90,0
+tadoba,50,43,15,1
+tadoba,30,0,32,0
+dyanganga,60,37,21,1
+Jim Corbett National Park,60,48,12,1
+tadoba,28,15,65,0
+asdas,28,45,33,1
+sundarban,26,49,8,1
+sundarban,12,45,18,1
+sahara,32,12,44,0
+sahara,25,20,59,0
+tadoba,28,32,70,0
+Jharkand,25,45,20,1
+Bangalore,32,30,10,1
+Ecuador,30,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,50,48,10,1
+melghat,30,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,50,20,70,0
+Ecuador,89,32,19,1
+Kanha National Park	,60,50,45,1
+Gir National Park,25,55,80,1
+Jakanari reserve forest,5,39,100,0
+Jharkand,20,12,12,0
+Bangalore,89,23,23,0
+Ecuador,40,34,15,1
+canada,60,4,68,0
+melghat,78,56,79,1
+melghat,1,45,90,0
+tadoba,30,43,15,1
+tadoba,60,0,32,0
+dyanganga,30,37,21,1
+Jim Corbett National Park,40,48,12,1
+tadoba,50,15,65,0
+asdas,25,45,33,1
+sundarban,40,49,8,1
+sundarban,40,45,18,1
+sahara,45,12,44,0
+sahara,60,20,59,0
+tadoba,30,32,70,0
+Jharkand,40,45,20,1
+Bangalore,56,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,10,45,70,1
+Bangalore,45,48,10,1
+melghat,10,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,78,20,70,0
+Ecuador,45,32,19,1
+Kanha National Park	,50,50,45,1
+Gir National Park,32,55,80,1
+Jakanari reserve forest,10,39,100,0
+Jharkand,20,12,12,0
+Bangalore,5,23,23,0
+Ecuador,10,34,15,1
+canada,30,4,68,0
+melghat,30,56,79,1
+melghat,5,45,90,0
+tadoba,60,43,15,1
+tadoba,45,0,32,0
+dyanganga,1,37,21,1
+Jim Corbett National Park,30,48,12,1
+tadoba,5,15,65,0
+asdas,30,45,33,1
+sundarban,11,49,8,1
+sundarban,67,45,18,1
+sahara,10,12,44,0
+sahara,50,20,59,0
+tadoba,12,32,70,0
+Jharkand,10,45,20,1
+Bangalore,50,30,10,1
+Ecuador,28,20,70,0
+Kanha National Park	,5,45,70,1
+Bangalore,80,48,10,1
+melghat,67,15,30,0
+Kanha National Park	,56,35,35,0
+tadoba,50,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,32,50,45,1
+Gir National Park,5,55,80,1
+Jakanari reserve forest,40,39,100,0
+Jharkand,10,12,12,0
+Bangalore,30,23,23,0
+Ecuador,78,34,15,1
+canada,21,4,68,0
+melghat,5,56,79,1
+melghat,60,45,90,0
+tadoba,30,43,15,1
+tadoba,67,0,32,0
+dyanganga,40,37,21,1
+Jim Corbett National Park,21,48,12,1
+tadoba,26,15,65,0
+asdas,80,45,33,1
+sundarban,10,49,8,1
+sundarban,50,45,18,1
+sahara,89,12,44,0
+sahara,20,20,59,0
+tadoba,40,32,70,0
+Jharkand,89,45,20,1
+Bangalore,26,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,50,45,70,1
+Bangalore,30,48,10,1
+melghat,25,15,30,0
+Kanha National Park	,30,35,35,0
+tadoba,12,20,70,0
+Ecuador,45,32,19,1
+Kanha National Park	,21,50,45,1
+Gir National Park,60,55,80,1
+Jakanari reserve forest,60,39,100,0
+Jharkand,1,12,12,0
+Bangalore,78,23,23,0
+Ecuador,32,34,15,1
+canada,60,4,68,0
+melghat,60,56,79,1
+melghat,50,45,90,0
+tadoba,25,43,15,1
+tadoba,56,0,32,0
+dyanganga,5,37,21,1
+Jim Corbett National Park,10,48,12,1
+tadoba,30,15,65,0
+asdas,32,45,33,1
+sundarban,30,49,8,1
+sundarban,60,45,18,1
+sahara,60,12,44,0
+sahara,25,20,59,0
+tadoba,25,32,70,0
+Jharkand,20,45,20,1
+Bangalore,32,30,10,1
+Ecuador,26,20,70,0
+Kanha National Park	,80,45,70,1
+Bangalore,56,48,10,1
+melghat,10,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,30,20,70,0
+Ecuador,1,32,19,1
+Kanha National Park	,26,50,45,1
+Gir National Park,60,55,80,1
+Jakanari reserve forest,21,39,100,0
+Jharkand,67,12,12,0
+Bangalore,20,23,23,0
+Ecuador,80,34,15,1
+canada,39,4,68,0
+melghat,10,56,79,1
+melghat,12,45,90,0
+tadoba,50,43,15,1
+tadoba,12,0,32,0
+dyanganga,45,37,21,1
+Jim Corbett National Park,26,48,12,1
+tadoba,50,15,65,0
+asdas,1,45,33,1
+sundarban,20,49,8,1
+sundarban,78,45,18,1
+sahara,89,12,44,0
+sahara,5,20,59,0
+tadoba,30,32,70,0
+Jharkand,32,45,20,1
+Bangalore,50,30,10,1
+Ecuador,80,20,70,0
+Kanha National Park	,10,45,70,1
+Bangalore,10,48,10,1
+melghat,40,15,30,0
+Kanha National Park	,32,35,35,0
+tadoba,40,20,70,0
+Ecuador,5,32,19,1
+Kanha National Park	,89,50,45,1
+Gir National Park,30,55,80,1
+Jakanari reserve forest,50,39,100,0
+Jharkand,40,12,12,0
+Bangalore,60,23,23,0
+Ecuador,89,34,15,1
+canada,89,4,68,0
+melghat,50,56,79,1
+melghat,40,45,90,0
+tadoba,21,43,15,1
+tadoba,60,0,32,0
+dyanganga,10,37,21,1
+Jim Corbett National Park,50,48,12,1
+tadoba,12,15,65,0
+asdas,25,45,33,1
+sundarban,20,49,8,1
+sundarban,60,45,18,1
+sahara,60,12,44,0
+sahara,1,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,60,30,10,1
+Ecuador,21,20,70,0
+Kanha National Park	,28,45,70,1
+Bangalore,5,48,10,1
+melghat,40,15,30,0
+Kanha National Park	,60,35,35,0
+tadoba,26,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,11,50,45,1
+Gir National Park,67,55,80,1
+Jakanari reserve forest,5,39,100,0
+Jharkand,50,12,12,0
+Bangalore,10,23,23,0
+Ecuador,25,34,15,1
+canada,60,4,68,0
+melghat,40,56,79,1
+melghat,30,45,90,0
+tadoba,11,43,15,1
+tadoba,30,0,32,0
+dyanganga,12,37,21,1
+Jim Corbett National Park,1,48,12,1
+tadoba,30,15,65,0
+asdas,67,45,33,1
+sundarban,11,49,8,1
+sundarban,45,45,18,1
+sahara,10,12,44,0
+sahara,30,20,59,0
+tadoba,20,32,70,0
+Jharkand,50,45,20,1
+Bangalore,60,30,10,1
+Ecuador,5,20,70,0
+Kanha National Park	,56,45,70,1
+Bangalore,78,48,10,1
+melghat,26,15,30,0
+Kanha National Park	,10,35,35,0
+tadoba,60,20,70,0
+Ecuador,11,32,19,1
+Kanha National Park	,20,50,45,1
+Gir National Park,32,55,80,1
+Jakanari reserve forest,12,39,100,0
+Jharkand,40,12,12,0
+Bangalore,89,23,23,0
+Ecuador,1,34,15,1
+canada,10,4,68,0
+melghat,5,56,79,1
+melghat,32,45,90,0
+tadoba,40,43,15,1
+tadoba,26,0,32,0
+dyanganga,89,37,21,1
+Jim Corbett National Park,60,48,12,1
+tadoba,50,15,65,0
+asdas,89,45,33,1
+sundarban,1,49,8,1
+sundarban,30,45,18,1
+sahara,50,12,44,0
+sahara,12,20,59,0
+tadoba,30,32,70,0
+Jharkand,20,45,20,1
+Bangalore,60,30,10,1
+Ecuador,1,20,70,0
+Kanha National Park	,45,45,70,1
+Bangalore,67,48,10,1
+melghat,60,15,30,0
+Kanha National Park	,11,35,35,0
+tadoba,50,20,70,0
+Ecuador,10,32,19,1
+Kanha National Park	,45,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,80,39,100,0
+Jharkand,10,12,12,0
+Bangalore,21,23,23,0
+Ecuador,78,34,15,1
+canada,40,4,68,0
+melghat,1,56,79,1
+melghat,28,45,90,0
+tadoba,67,43,15,1
+tadoba,45,0,32,0
+dyanganga,67,37,21,1
+Jim Corbett National Park,67,48,12,1
+tadoba,20,15,65,0
+asdas,28,45,33,1
+sundarban,80,49,8,1
+sundarban,30,45,18,1
+sahara,10,12,44,0
+sahara,45,20,59,0
+tadoba,1,32,70,0
+Jharkand,30,45,20,1
+Bangalore,78,30,10,1
+Ecuador,30,20,70,0
+Kanha National Park	,30,45,70,1
+Bangalore,80,48,10,1
+melghat,40,15,30,0
+Kanha National Park	,28,35,35,0
+tadoba,5,20,70,0
+Ecuador,11,32,19,1
+Kanha National Park	,11,50,45,1
+Gir National Park,78,55,80,1
+Jakanari reserve forest,67,39,100,0
+Jharkand,12,12,12,0
+Bangalore,26,23,23,0
+Ecuador,78,34,15,1
+canada,28,4,68,0
+melghat,26,56,79,1
+melghat,30,45,90,0
+tadoba,12,43,15,1
+tadoba,56,0,32,0
+dyanganga,60,37,21,1
+Jim Corbett National Park,60,48,12,1
+tadoba,1,15,65,0
+asdas,78,45,33,1
+sundarban,89,49,8,1
+sundarban,5,45,18,1
+sahara,40,12,44,0
+sahara,5,20,59,0
+tadoba,60,32,70,0
+Jharkand,21,45,20,1
+Bangalore,1,30,10,1
+Ecuador,60,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,56,48,10,1
+melghat,78,15,30,0
+Kanha National Park	,89,35,35,0
+tadoba,10,20,70,0
+Ecuador,45,32,19,1
+Kanha National Park	,45,50,45,1
+Gir National Park,60,55,80,1
+Jakanari reserve forest,32,39,100,0
+Jharkand,26,12,12,0
+Bangalore,1,23,23,0
+Ecuador,50,34,15,1
+canada,50,4,68,0
+melghat,26,56,79,1
+melghat,40,45,90,0
+tadoba,21,43,15,1
+tadoba,11,0,32,0
+dyanganga,10,37,21,1
+Jim Corbett National Park,60,48,12,1
+tadoba,26,15,65,0
+asdas,67,45,33,1
+sundarban,1,49,8,1
+sundarban,40,45,18,1
+sahara,56,12,44,0
+sahara,21,20,59,0
+tadoba,30,32,70,0
+Jharkand,50,45,20,1
+Bangalore,40,30,10,1
+Ecuador,11,20,70,0
+Kanha National Park	,10,45,70,1
+Bangalore,25,48,10,1
+melghat,20,15,30,0
+Kanha National Park	,89,35,35,0
+tadoba,25,20,70,0
+Ecuador,56,32,19,1
+Kanha National Park	,5,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,50,39,100,0
+Jharkand,30,12,12,0
+Bangalore,37,23,23,0
+Ecuador,10,34,15,1
+canada,50,4,68,0
+melghat,80,56,79,1
+melghat,28,45,90,0
+tadoba,56,43,15,1
+tadoba,32,0,32,0
+dyanganga,56,37,21,1
+Jim Corbett National Park,10,48,12,1
+tadoba,30,15,65,0
+asdas,30,45,33,1
+sundarban,5,49,8,1
+sundarban,25,45,18,1
+sahara,28,12,44,0
+sahara,25,20,59,0
+tadoba,5,32,70,0
+Jharkand,5,45,20,1
+Bangalore,20,30,10,1
+Ecuador,20,20,70,0
+Kanha National Park	,5,45,70,1
+Bangalore,60,48,10,1
+melghat,1,15,30,0
+Kanha National Park	,30,35,35,0
+tadoba,5,20,70,0
+Ecuador,12,32,19,1
+Kanha National Park	,60,50,45,1
+Gir National Park,20,55,80,1
+Jakanari reserve forest,20,39,100,0
+Jharkand,32,12,12,0
+Bangalore,21,23,23,0
+Ecuador,20,34,15,1
+canada,78,4,68,0
+melghat,28,56,79,1
+melghat,60,45,90,0
+tadoba,40,43,15,1
+tadoba,11,0,32,0
+dyanganga,78,37,21,1
+Jim Corbett National Park,40,48,12,1
+tadoba,21,15,65,0
+asdas,28,45,33,1
+sundarban,21,49,8,1
+sundarban,30,45,18,1
+sahara,12,12,44,0
+sahara,60,20,59,0
+tadoba,80,32,70,0
+Jharkand,89,45,20,1
+Bangalore,30,30,10,1
+Ecuador,30,20,70,0
+Kanha National Park	,45,45,70,1
+Bangalore,26,48,10,1
+melghat,56,15,30,0
+Kanha National Park	,56,35,35,0
+tadoba,56,20,70,0
+Ecuador,50,32,19,1
+Kanha National Park	,40,50,45,1
+Gir National Park,89,55,80,1
+Jakanari reserve forest,67,39,100,0
+Jharkand,45,12,12,0
+Bangalore,28,23,23,0
+Ecuador,67,34,15,1
+canada,80,4,68,0
+melghat,80,56,79,1
+melghat,60,45,90,0
+tadoba,25,43,15,1
+tadoba,21,0,32,0
+dyanganga,60,37,21,1
+Jim Corbett National Park,5,48,12,1
+tadoba,5,15,65,0
+asdas,30,45,33,1
+sundarban,11,49,8,1
+sundarban,60,45,18,1
+sahara,5,12,44,0
+sahara,11,20,59,0
+tadoba,78,32,70,0
+Jharkand,28,45,20,1
+Bangalore,67,30,10,1
+Ecuador,56,20,70,0
+Kanha National Park	,40,45,70,1
+Bangalore,11,48,10,1
+melghat,30,15,30,0
+Kanha National Park	,30,35,35,0
+tadoba,5,20,70,0
+Ecuador,12,32,19,1
+Kanha National Park	,78,50,45,1
+Gir National Park,60,55,80,1
+Jakanari reserve forest,78,39,100,0
+Jharkand,89,12,12,0
+Bangalore,40,23,23,0
+Ecuador,32,34,15,1
+canada,26,4,68,0
+melghat,67,56,79,1
+melghat,32,45,90,0
+tadoba,40,43,15,1
+tadoba,56,0,32,0
+dyanganga,50,37,21,1
+Jim Corbett National Park,40,48,12,1
+tadoba,Oxygen,15,65,0
+asdas,80,45,33,1
+sundarban,80,49,8,1
+sundarban,80,45,18,1
+sahara,60,12,44,0
+sahara,30,20,59,0
+tadoba,10,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+Kanha National Park	,60,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
+Jharkand,38,45,20,1
+Bangalore,40,30,10,1
+Ecuador,40,20,70,0
+Kanha National Park	,40,45,70,1
+Bangalore,30,48,10,1
+melghat,50,15,30,0
+Kanha National Park	,5,35,35,0
+tadoba,5,20,70,0
+Ecuador,60,32,19,1
+Kanha National Park	,30,50,45,1
+Gir National Park,40,55,80,1
+Jakanari reserve forest,30,39,100,0
+Jharkand,10,12,12,0
+Bangalore,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+melghat,25,56,79,1
+melghat,12,45,90,0
+tadoba,28,43,15,1
+tadoba,26,0,32,0
+dyanganga,32,37,21,1
+Jim Corbett National Park,45,48,12,1
+tadoba,56,15,65,0
+asdas,67,45,33,1
+sundarban,78,49,8,1
+sundarban,89,45,18,1
+sahara,21,12,44,0
+sahara,11,20,59,0
+tadoba,1,32,70,0
